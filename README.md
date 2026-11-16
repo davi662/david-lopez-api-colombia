@@ -1,12 +1,11 @@
 # Mini Portal de Colombia 🇨🇴
 
 ## Descripción
-ESCRIBA AQUÍ, EN 2 O 3 LÍNEAS, QUÉ HACE SU PROYECTO.
-(Pista: un sitio web que usa la API de Colombia para mostrar... ¿qué muestra cada página?)
+colombia api es una pagina que muestra informacion general y datos sobre la cultura y politica de colombia mediante una api
 
 ## Páginas
-- **Colombia en datos** (`index.html`): ESCRIBA QUÉ INFORMACIÓN MUESTRA.
-- **Presidentes de Colombia** (`presidentes.html`): ESCRIBA QUÉ INFORMACIÓN MUESTRA Y CÓMO ESTÁN ORDENADOS.
+- **Colombia en datos** (`index.html`): muestra datos sobre colombia
+- **Presidentes de Colombia** (`presidentes.html`): muestra a todos los presidentes que ha tenido colombia a lo largo de su historia, con su nombre,foto,partido politico y tiempo de mandato
 
 ## Tecnologías usadas
 - HTML5
@@ -35,7 +34,7 @@ ESCRIBA AQUÍ, EN 2 O 3 LÍNEAS, QUÉ HACE SU PROYECTO.
 > Se necesita conexión a internet, porque los datos se cargan desde la API.
 
 ## Nota sobre las imágenes
-Muchas fotos de presidentes que trae la API no cargaban, así que se reemplazaron por imágenes buscadas en internet, usando el objeto `fotosNuevas` en `js/presidentes.js`.
+Muchas fotos de presidentes que trae la API no cargaban, así que se reemplazaron por imágenes buscadas en internet, usando el objeto `fotosNuevas` en `presidentes.js`.
 
 ## Autor
 David ricardo lopez
